@@ -1,1 +1,3 @@
 # POS-tagging-in-NLP
+Part-of-Speech Tagging project is an NLP (Natural Language Processing) endeavor aimed at enhancing the accuracy and granularity of identifying the syntactic roles of words within a given text. Traditional POS tagging categorizes words into a limited set of grammatical categories such as nouns, verbs, adjectives, etc. This project aims to employ advanced techniques to achieve a more nuanced and detailed tagging, which can significantly improve downstream NLP tasks like parsing, sentiment analysis, and machine translation.
+You can read more about POS tagging [from here](https://medium.com/@tm.nidheesh95/parts-of-speech-pos-tagging-in-nlp-8657033fcda5).
